@@ -1,0 +1,35 @@
+
+body {
+    background-color: #111827;
+    color: white;
+}
+.navbar-brand {
+    padding-left: 30rem;
+}
+.navbar-nav {
+    padding-right: 28rem;
+}
+.hero-section {
+   text-align: center;
+    padding: 100px 20px;
+}
+.hero-section h1 {
+    font-weight: bold;
+}
+.hero-section p {
+    color: #d1d5db;
+}
+.btn-primary {
+    background-color: #3b82f6;
+    border: none;
+}
+.btn-outline-light {
+    border-color: white;
+    color: white;
+}
+.card {
+    border: none;
+}
+.card-icon {
+    font-size: 30px;
+}
