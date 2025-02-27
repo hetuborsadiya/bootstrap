@@ -22,10 +22,7 @@ body {
 .hero-section p {
     color: #d1d5db;
 }
-.btn-primary {
-    background-color: #3b82f6;
-    border: none;
-}
+
 .btn-outline-light {
     border-color: white;
     color: white;
