@@ -4,10 +4,13 @@ body {
     color: white;
 }
 .navbar-brand {
-    padding-left: 30rem;
+    padding-left: 22rem;
 }
 .navbar-nav {
-    padding-right: 28rem;
+    padding-right: 22rem;
+}
+.collapse   {
+    padding-right: 10rem;
 }
 .hero-section {
    text-align: center;
